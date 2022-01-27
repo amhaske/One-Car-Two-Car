@@ -11,6 +11,8 @@
 
 ## General Information
 - The code implements the "One Car, Two Car, Fast Car, Slow Car" problem statement.
+- Demonstrates different object oriented programming principles.
+- Tests the implemented functionality using python pytest library.
 
 
 ## Technologies Used
